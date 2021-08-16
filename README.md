@@ -1,2 +1,2 @@
-# beego-vue-admin
+# beego-admin
 go管理系统
